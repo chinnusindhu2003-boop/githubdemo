@@ -1,0 +1,3 @@
+import my module
+print("my first line")
+print("my second line")
