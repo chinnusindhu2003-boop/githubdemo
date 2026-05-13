@@ -7,3 +7,5 @@ print("CHANGE FOR SECOND COMMIT")
 print("CHANGE FOR THIRD COMMIT")
 print("change for the fifth commit")
 print("change for the sixth change")
+print("change for the seventh change")
+
